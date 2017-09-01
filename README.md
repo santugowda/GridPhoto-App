@@ -1,5 +1,5 @@
 # PhotoApp
-Sample Android app which displays photos from Flikr api, loads in girds on an endless scrollable list. On click of any item/photo displays the full image along with the title assosiated with it.
+Sample Android app which displays photos from Flikr api, loads in girds on an endless scrollable list. On click of any item/photo displays the full image along with the title associated with it.
 
 * Displays a grid of Images in a list
 * Loads a JSON list from an endpoind and change the page of images by changing the query parameter page=X (X being the page of images to return)
