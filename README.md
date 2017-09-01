@@ -7,4 +7,6 @@ Sample Android app which displays photos from Flikr api, loads in girds on an en
 * When an image cell is tapped, a new screen should come up with that image full screen with the title at the bottom of screen
 * The list should support pull down to refresh
 
+Used RxJava,RetroFit and Picasso external frameworks for the implementation.
+
 Note : Except for endless scrollable view, rest is implemented(Working on this)
