@@ -10,3 +10,10 @@ Sample Android app which displays photos from Flikr api, loads in girds on an en
 Used RxJava,RetroFit and Picasso external frameworks for the implementation.
 
 Note : Except for endless scrollable view, rest is implemented(Working on this)
+
+Libraries used :
+
+RecyclerView with the StaggeredGridLayoutManager to display the grid of image results
+GSON library to streamline the parsing of JSON data
+RxJava and RetroFit lib to handle the request and response
+Picasso for image rendering.
